@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kuiper
+- 👀 I’m interested in Game development / Computer science
+- 🌱 I’m currently learning Python programming
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me kuiperdevelopments@gmail.com
